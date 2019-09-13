@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StopWatchApp</string>
+    <string name="icget">icget</string>
+    <string name="healthy_on_you">Healthy On You</string>
+    <string name="quote">All progress takes place outside the comfort zone.</string>
+    <string name="btnget">Get Started</string>
+    <string name="btn_stop">Finish Workout</string>
+    <string name="home">Home</string>
+</resources>
